@@ -1,0 +1,37 @@
+{
+  "id": "the-hands-of-sadie",
+  "title": "The Hands of Sadie",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "11"
+  },
+  "description": "Hands that my player Sadie has stolen and named",
+  "authors": [
+    {
+      "name": "BuyMyMojo",
+      "discord": "BuyMyMojo",
+      "email": "hello+foundry@buymymojo.net",
+      "url": "https://buymymojo.net",
+      "flags": {}
+    },
+    {
+      "name": "Sadie the hand thief",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "label": "The Hands of Sadie",
+      "name": "the-hands-of-sadie",
+      "type": "Item",
+      "system": "pf2e",
+      "path": "packs/the-hands-of-sadie",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
