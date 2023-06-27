@@ -2,8 +2,9 @@
   "id": "the-hands-of-sadie",
   "title": "The Hands of Sadie",
   "version": "0.1.0",
+  "license": "./LICENSE",
   "compatibility": {
-    "minimum": "9",
+    "minimum": "10",
     "verified": "11"
   },
   "description": "Hands that my player Sadie has stolen and named",
@@ -33,5 +34,9 @@
       },
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/BuyMyMojo/the-hands-of-sadie-FoundryVTT",
+  "manifest": "https://raw.githubusercontent.com/BuyMyMojo/the-hands-of-sadie-FoundryVTT/main/module.json",
+  "download": "https://github.com/BuyMyMojo/the-hands-of-sadie-FoundryVTT/archive/refs/heads/main.zip"
+
 }
